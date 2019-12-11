@@ -13,5 +13,5 @@ end
 song.count 
 
     
-    
+    hash = []
     @@genres 
