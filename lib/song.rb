@@ -1,4 +1,3 @@
-Song.count
-Song.artists
-Song.genres
-Song.genre_count
+class Song
+  attr_accessor :name, :artist, :genre
+  @@count = 
