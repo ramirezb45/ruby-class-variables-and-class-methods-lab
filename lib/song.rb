@@ -4,6 +4,7 @@ class Song
   @@count += 1
   
   def self.count 
+    @@count
     
     
     @@genres 
