@@ -3,7 +3,7 @@ class Song
   @@count = 0
   @@count += 1
   
-  def count 
+  def self.count 
     
     
     @@genres 
