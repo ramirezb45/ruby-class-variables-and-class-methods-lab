@@ -10,6 +10,8 @@ class Song
   end
 end
 
+song.count 
+
     
     
     @@genres 
