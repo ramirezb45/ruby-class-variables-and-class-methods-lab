@@ -14,4 +14,5 @@ song.count
 
     
     hash = []
+    hash = 
     @@genres 
